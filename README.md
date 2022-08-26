@@ -1,5 +1,5 @@
-
-# Blender para iniciantes
+![](https://github.com/dfilitto/BlenderProjects/blob/main/Blender%20-%20Modelagem%203D%20para%20iniciantes.jpg)
+# [Blender para iniciantes](https://www.youtube.com/playlist?list=PLfvOpw8k80Wr7kiTHYoYp72b9bZXsrTfK)
 
 O curso Blender para iniciantes tem como objetivo apresentar os principais recursos/funcionalidades do Blender por meio da construção de vários projetos. 
 
